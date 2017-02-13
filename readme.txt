@@ -1,0 +1,1 @@
+Aron Chan - 10127143 - https://antonair.github.io/javascript-text-stats/
